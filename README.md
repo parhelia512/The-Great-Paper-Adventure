@@ -4,7 +4,7 @@ PC/Xbox 360
 
 Visit http://www.thegreatpaperadventure.com to get the X360 version or the full free (on PC) game!
 
-The source code conatins only one playable levels, other assets are not included in toses sources because they're not free.
+The source code contains only one playable level. Other assets are not included because don't plan to distribute them for now.
 
 Team:
 - Valryon (Damien Mayance): PC & Xbox 360 developper
